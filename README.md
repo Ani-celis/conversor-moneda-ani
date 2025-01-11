@@ -47,5 +47,25 @@ El proyecto está compuesto por varias clases que interactúan entre sí para re
 
 Para ejecutar este proyecto necesitas tener instalado Java 11 o superior. Además, es necesario contar con una conexión a Internet para consultar las tasas de conversión a través de la API externa.
 
+### 5. Capturas de mi proyecto:
+
+1.Clase principal:
+![image](https://github.com/user-attachments/assets/197a4788-ad67-40b9-8d13-2ea7ca5d510e)
+2.Clase ConvertirMoneda:
+![image](https://github.com/user-attachments/assets/1ef101f7-2e53-466d-b3cb-1487326e28a1)
+3. Clase ConsultarMoneda:
+![image](https://github.com/user-attachments/assets/f0d80d6c-2ebf-42ed-9469-e18fb66d03de)
+4.Clase Monedas
+![image](https://github.com/user-attachments/assets/bbf205e4-66a3-452b-be56-260bffb83d3f)
+
+### 5. Capturas de ejemplos de funcionamiento:
+![image](https://github.com/user-attachments/assets/9b148a51-604a-444f-baed-eb6c7cfc7d87)
+![image](https://github.com/user-attachments/assets/ea3851fc-e419-4b61-91d1-5124e3e8e47f)
+![image](https://github.com/user-attachments/assets/d1e5c872-c608-46bb-b969-6c953790504b)
+![image](https://github.com/user-attachments/assets/b8fd0da0-6fc5-4072-9896-b1c12cad02e5)
+
+
+
+
  
 
